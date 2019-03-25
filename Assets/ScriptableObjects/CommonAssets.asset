@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7443f3b08e54720bee5253da354fd38, type: 3}
+  m_Name: CommonAssets
+  m_EditorClassIdentifier: 
+  Car1_mesh:
+  - {fileID: 4300000, guid: ac1b9e4dbc28c3e448a5f0a6eab206b2, type: 3}
+  CrushedCar1_mesh: []
+  Car2_mesh:
+  - {fileID: 4300000, guid: 147639d7b2ae2474ea0c008d52f8d2bf, type: 3}
+  CrushedCar2_mesh: []
+  Car3_mesh:
+  - {fileID: 4300000, guid: c8bd7ba2b7ae7ef43aee393e629b04f9, type: 3}
+  CrushedCar3_mesh: []
+  P_mesh:
+  - {fileID: 4300000, guid: ac1b9e4dbc28c3e448a5f0a6eab206b2, type: 3}
+  CrushedP_mesh: []
+  CrushedT_mesh: {fileID: 0}
+  CrushedM_mesh: {fileID: 0}
+  OilEnd: {fileID: 1583154184260306, guid: de30bdedc6ddf86419b57927c3ecbb2a, type: 2}

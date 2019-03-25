@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2fa42234924c1183c5f7b0263e5735, type: 3}
+  m_Name: CasualStyle
+  m_EditorClassIdentifier: 
+  CommonAssets: {fileID: 11400000, guid: 3a524d8deba7a024eab9bae738e7c77a, type: 2}
+  C1_T: []
+  C2_T: []
+  C3_T: []
+  P_T: []
+  Car1: {fileID: 1397189507921144, guid: 9596a5a4dd856454bb1becfd931f52c1, type: 2}
+  Car2: {fileID: 1397189507921144, guid: 9a570442f4ecbb34cbf6f47d711de2a2, type: 2}
+  Car3: {fileID: 1397189507921144, guid: d6ac7dd15b74caa4883d7f536e91ee35, type: 2}
+  Police: {fileID: 1397189507921144, guid: 252dd9c534ab34a46bc43c02f79cfe3f, type: 2}
+  Military: {fileID: 1397189507921144, guid: 4e8695420788616428e425ba6a41d349, type: 2}
+  Trailer: {fileID: 1397189507921144, guid: a8a89d5bb31208b4aa5cbb4c9549599c, type: 2}
+  Projectile: {fileID: 1935344833906858, guid: 4bf4fc750594e044589d7f3916ae4c34, type: 2}
+  Copter: {fileID: 1477989368024280, guid: 79cc6ef6670b8444086611d435ca2bec, type: 2}
+  Missile: {fileID: 1101951364002970, guid: 46c1d9c0989bf074080f1b5d5e87c4af, type: 2}
+  FirstPuddle: {fileID: 1177496207465202, guid: 0995a02c293bd86409d37916f7210a42,
+    type: 2}
+  TransitPuddle: {fileID: 1177496207465202, guid: efae30cce2517c64290abd18076cc73e,
+    type: 2}
+  TransitPuddle_T:
+  - {fileID: 2800000, guid: b10cd57330cd4eb41b514885c6ed60b8, type: 3}
+  LastPuddle_T: {fileID: 2800000, guid: b10cd57330cd4eb41b514885c6ed60b8, type: 3}
+  Wall: {fileID: 1787827549323802, guid: 9a3218046ea4d6c4aa097dc3e35c7c59, type: 2}
+  Road: {fileID: 0}
+  Meteor: {fileID: 1822434041917700, guid: 5668afcfbdd336d43862f32f14153f96, type: 2}
+  MeteorProjector: {fileID: 1165637670253420, guid: fc6cfcdf4f80a0b409c499ad1e3b2309,
+    type: 2}

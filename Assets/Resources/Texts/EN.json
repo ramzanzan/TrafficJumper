@@ -1,0 +1,36 @@
+{
+	"Items":[
+	{"k":"home","v":"Menu"},
+	{"k":"invitation","v":"Tap to play"},
+	{"k":"and","v":"and"},
+	
+	{"k":"select","v":"Select"},
+	{"k":"selected","v":"Selected"},
+	{"k":"lvlCondition","v":"You must complete all missions on the level №"},
+	
+	{"k":"jump_over","v":"Jump over"},
+	{"k":"jump_on","v":"Jump on"},
+	{"k":"jump_back1","v":"Do"},
+	{"k":"jump_back2","v":"jump back"},
+	{"k":"distance","v":"Don't lose"},
+	{"k":"meters","v":"meters"},
+	{"k":"eat","v":"Eat"},
+	{"k":"row","v":"in a row"},
+	{"k":"jump_only_cars","v":"Jump only on roofs"},
+	{"k":"jump_only_lines","v":"Jump only on lines"},
+	{"k":"during","v":"during distance"},
+	
+	{"k":"Military","v":"military"},
+	{"k":"Wobbling","v":"wobbling"},
+	{"k":"Sliding","v":"sliding"},
+	{"k":"Simple","v":"simple"},
+	{"k":"Police","v":"policy"},
+	{"k":"Trailer","v":"trailer"},
+	{"k":"s_size","v":"small-sized"},
+	{"k":"m_size","v":"middle-sized"},
+	{"k":"l_size","v":"long-sized"},
+	
+	{"k":"car","v":"car"},
+	{"k":"cars","v":"cars"}
+	]
+}
